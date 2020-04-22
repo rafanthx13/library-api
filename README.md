@@ -1,5 +1,11 @@
 # Library API
 
+
+[![Build Status](https://travis-ci.com/rafanthx13/library-api.svg?branch=master)](https://travis-ci.com/rafanthx13/library-api)
+
+[![codecov](https://codecov.io/gh/rafanthx13/library-api/branch/master/graph/badge.svg)](https://codecov.io/gh/rafanthx13/library-api)
+
+
 Curso Udemy: Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
 
 **Descrição:** API's RestFul de alto nível com Spring Boot utilizando TDD e o novo JUnit 5.
@@ -22,3 +28,4 @@ Curso Udemy: Design de API's RestFul com Spring Boot, TDD e o novo JUnit5
 ## Executar Projeto em linha de comando
 
 `mvn install` e `mvn spring-boot:run`
+
